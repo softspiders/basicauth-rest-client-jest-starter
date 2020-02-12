@@ -13,7 +13,6 @@ Simple REST client starter with basic authentication which is tested by Jest
 - express
 - integration-test
 - jest
-- node
 - rest
 - starter
 - template
