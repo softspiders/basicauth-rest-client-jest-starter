@@ -66,6 +66,7 @@ function deleteRequest(url, user) {
 		})
 		.catch(err => console.log(err));
 };
+
 exports.getRequest = getRequest;
 exports.postRequest = postRequest;
 exports.putRequest = putRequest;
