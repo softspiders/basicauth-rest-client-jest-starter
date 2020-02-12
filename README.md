@@ -10,6 +10,7 @@ Simple basic authentication client starter which is tested by Jest
 
 - auth
 - client
+- integration-test
 - jest
 - node
 - rest
