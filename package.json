@@ -1,17 +1,20 @@
 {
-  "name": "basic-auth-client-jest-starter",
+  "name": "basic-auth-rest-client-jest-starter",
   "version": "1.0.0",
-  "description": "basic-auth-client-jest-starter",
+  "description": "basic-auth-rest-client-jest-starter",
   "main": "client.js",
   "scripts": {
     "start:server": "node server.js",
     "test": "jest"
   },
   "keywords": [
-    "auth",
+    "basic-auth",
+    "client",
     "express",
+    "integration-test",
     "jest",
     "node",
+    "rest",
     "softspiders",
     "starter",
     "template"

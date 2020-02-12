@@ -2,7 +2,7 @@
 
 # basic-auth-rest-client-jest-starter
 
-Simple basic authentication client starter which is tested by Jest
+Simple REST client starter with basic authentication which is tested by Jest
 
 ---
 
