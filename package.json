@@ -8,8 +8,10 @@
     "test": "jest"
   },
   "keywords": [
-    "auth",
+    "basic-auth",
+    "client",
     "express",
+    "integration-test",
     "jest",
     "node",
     "rest",
