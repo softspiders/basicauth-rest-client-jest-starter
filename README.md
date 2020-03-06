@@ -8,7 +8,7 @@ Simple REST client starter with basic authentication which is tested by Jest
 
 ## Feature tags
 
-- basic=auth
+- basic-auth
 - client
 - express
 - integration-test
