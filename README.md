@@ -1,6 +1,6 @@
 [SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
-# basic-auth-rest-client-jest-starter
+# basicauth-rest-client-jest-starter
 
 Simple REST client starter with basic authentication which is tested by Jest
 
@@ -8,7 +8,7 @@ Simple REST client starter with basic authentication which is tested by Jest
 
 ## Feature tags
 
-- basic-auth
+- basic=auth
 - client
 - express
 - integration-test
